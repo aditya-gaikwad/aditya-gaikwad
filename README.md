@@ -3,10 +3,11 @@
 <h1 align="center">Hey there! 👋, I'm Aditya 👨‍💻</h1>
 <h3 align="center">ELECTRONICS ENGINEER | TY UNDERGRAD | COMPUTER SCIENCE ENTHUSIAST</h3>
 <p align="center">I am currently studying Electronics Engineering from Walchand College Of Engineering, Sangli. I have an interest in real life problem solving. I am also interested in web-development.</p>
-<img src="https://miro.medium.com/max/2800/1*BU7f02LeQeELztqxa8eCmw.gif" align="right" alt="Coder GIF" width="400" height="300">
+<img src="https://miro.medium.com/max/2800/1*BU7f02LeQeELztqxa8eCmw.gif" align="right" alt="Coder GIF" width="480" height="300">
 <br>
 
 <h3 align="left">👨‍💻About Me:</h3>
+
 - 🌱 **Learning more about Algorithms**
 
 - 🎓 **Studying Electronics at WCE Sangli.**
@@ -21,9 +22,9 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-gaikwad&show_icons=true&locale=en&layout=compact" alt="aditya-gaikwad" /></p>
+<p><img style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-gaikwad&show_icons=true&locale=en&layout=compact" alt="aditya-gaikwad" /></p>
 
-<p>&nbsp;<img style="float:right" src="https://github-readme-stats.vercel.app/api?username=aditya-gaikwad&show_icons=true&locale=en" alt="aditya-gaikwad" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aditya-gaikwad&show_icons=true&locale=en" alt="aditya-gaikwad" /></p>
 
 <br>
 <h3 align="left">📞Connect with me:</h3>
