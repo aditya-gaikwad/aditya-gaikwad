@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGvwDgvt1OfZA/profile-displaybackgroundimage-shrink_350_1400/0/1629461254876?e=1634774400&v=beta&t=pZd-j2WzYFqhkuWS3BrXdMDQwZCo9BL8otABlJ98yTM)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQELWYcwDIA9Dg/profile-displaybackgroundimage-shrink_350_1400/0/1633754154979?e=1639008000&v=beta&t=dNY_JtibP_s7mKQ8VUEZs8nKa21O9ZxYUpt1k06QIi4)
 
 <h1 align="center">Hey there! 👋, I'm Aditya 👨‍💻</h1>
 <h3 align="center">ELECTRONICS ENGINEER | TY UNDERGRAD | COMPUTER SCIENCE ENTHUSIAST</h3>
