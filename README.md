@@ -12,7 +12,7 @@
 
 - 🎓 **Studying Electronics at WCE Sangli.**
 
-- 🤔 **Exploring new technologies and developing software solutions.**
+- 🤔 **Exploring new technologies.**
 
 
 <br>
