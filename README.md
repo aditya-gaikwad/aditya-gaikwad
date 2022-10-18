@@ -14,6 +14,9 @@
 
 - 🤔 **Exploring new technologies.**
 
+<br>
+
+[![@aditya_gaikwad's Holopin board](https://holopin.me/aditya_gaikwad)](https://holopin.io/@aditya_gaikwad)
 
 <br>
 
